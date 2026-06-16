@@ -1,6 +1,6 @@
 🚀 Next.js Form Submission Project
 
-URL: https://prisma-form.vercel.app/
+URL: https://next-prisma-form-eight.vercel.app/
 
 This project is completed as part of a task requirement.
 
