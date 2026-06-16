@@ -11,7 +11,7 @@ Tailwind CSS
 React Hook Form
 Yup Validation
 Prisma ORM
-SQLite (development database)
+SQLite (development database) - Saved in Local - For server, I can install Supabase and use it
 
 📋 Features
 
