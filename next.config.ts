@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     domains: ["cdn.dummyjson.com"],
   },
+  allowedDevOrigins: ["192.168.100.100"],
 };
 
 export default nextConfig;
